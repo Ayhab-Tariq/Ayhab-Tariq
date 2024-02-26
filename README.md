@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ayhabtariq@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences
 - ⚡ Fun fact "Did you know that Ayhab has a superpower? They can brighten up any room with their contagious laughter and bring smiles to everyone's faces with their incredible sense of humor! 🎉😄"
 
 <h3 align="left">Connect with me:</h3>
