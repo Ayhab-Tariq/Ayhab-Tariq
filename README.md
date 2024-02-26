@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayhab-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="ayhab-tariq" /> </p>
 
-- 🔭 I’m currently working on **React Native Project**
+- 🔭 I’m currently working
 
 - 🌱 I’m currently learning **Next Js, Flutter and Block Chain**
 
