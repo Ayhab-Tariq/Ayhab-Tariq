@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react js and react native**
 
-- 📫 How to reach me **ayhabtariq@gmail.com**
+- 📫 How to reach me **ayhabtariq27@gmail.com**
 
 - 📄 Know about my experiences
 - ⚡ Fun fact "Did you know that Ayhab has a superpower? They can brighten up any room with their contagious laughter and bring smiles to everyone's faces with their incredible sense of humor! 🎉😄"
