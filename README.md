@@ -10,6 +10,10 @@
   <a href="https://ayhab.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/vercel/38BDF8" alt="Portfolio" height="36" width="46" /></a>
 </p>
 
+<a href="https://ayhab.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-ayhab.vercel.app-38BDF8?style=for-the-badge&labelColor=0F172A" alt="Visit my portfolio" /></a>
+
+<br />
+
 <img src="https://komarev.com/ghpvc/?username=ayhab-tariq&label=Profile%20views&color=38bdf8&style=flat-square" alt="Profile views" />
 
 </div>
@@ -23,12 +27,14 @@ const ayhab = {
   role: "Full-Stack Software Engineer",
   basedIn: "Lahore, Pakistan 🇵🇰",
   experience: "3+ years shipping production web & mobile apps",
+  portfolio: "https://ayhab.vercel.app",
   askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "React Native"],
   openTo: ["On-site", "Hybrid", "Remote"],
 };
 ```
 
 - 🛠️ Comfortable end to end: UI architecture, Stripe, WebSockets, REST APIs, VPS + Nginx deployment
+- 🌐 See my work at **[ayhab.vercel.app](https://ayhab.vercel.app/)**
 - 📫 Reach me at **ayhabtariq27@gmail.com**
 
 ---
@@ -111,5 +117,5 @@ const ayhab = {
 ---
 
 <div align="center">
-  <i>⭐ Thanks for stopping by! Let's build something great together.</i>
+  <i>⭐ Thanks for stopping by! Check out more of my work at <a href="https://ayhab.vercel.app/">ayhab.vercel.app</a></i>
 </div>
