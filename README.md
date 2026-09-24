@@ -3,10 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayhab+Tariq;Full-Stack+Software+Engineer+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Web+%26+Mobile+Apps+that+ship" alt="Typing intro" />
 
 <p>
-  <a href="https://ayhab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ayhab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ayhabtariq27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/ayhab.tariq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/ayhab" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="46" /></a>
+  <a href="https://www.instagram.com/ayhab_tariq_27/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="36" width="46" /></a>
+  <a href="https://www.facebook.com/ayhab.tariq.2025/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="36" width="46" /></a>
+  <a href="mailto:ayhabtariq27@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="36" width="46" /></a>
+  <a href="https://ayhab.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.simpleicons.org/vercel/38BDF8" alt="Portfolio" height="36" width="46" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=ayhab-tariq&label=Profile%20views&color=38bdf8&style=flat-square" alt="Profile views" />
@@ -22,13 +23,11 @@ const ayhab = {
   role: "Full-Stack Software Engineer",
   basedIn: "Lahore, Pakistan 🇵🇰",
   experience: "3+ years shipping production web & mobile apps",
-  askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "React Native"],
+  askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "NestJS", "React Native"],
   openTo: ["On-site", "Hybrid", "Remote"],
 };
 ```
 
-- 🚀 Led a full migration to Next.js and built a complete admin panel from scratch
-- ⚡ Improved Lighthouse performance by **40%** and cut state-related bugs by **35%**
 - 🛠️ Comfortable end to end: UI architecture, Stripe, WebSockets, REST APIs, VPS + Nginx deployment
 - 📫 Reach me at **ayhabtariq27@gmail.com**
 
@@ -36,29 +35,75 @@ const ayhab = {
 
 ### 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+</p>
+
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,bootstrap&theme=dark" alt="Frontend" /></p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materializecss/materializecss-original.svg" alt="Materialize" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="40" height="40" />
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="CanvasJS" width="40" height="40" />
+</p>
 
-**Backend & Mobile (React Native)**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,react,prisma&theme=dark" alt="Backend" /></p>
+**Backend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" />
+</p>
 
-**Databases & DevOps**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,nginx,vercel,netlify,githubactions&theme=dark" alt="Databases" /></p>
+**Mobile**
+<p>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/expo/ffffff" alt="Expo" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+</p>
 
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode&theme=dark" alt="Tools" /></p>
+**Databases**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" />
+</p>
 
----
+**DevOps & Hosting**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+</p>
 
-### 🌟 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**NikharHerbal**](https://nikharherbal.com) | Herbal products store with a custom CMS admin, delivered end to end | React · Node.js · Prisma · MariaDB |
-| **POS Mobile App** | Cross-platform POS for factories and restaurants with inventory and 3-tier roles | React Native · Express · MongoDB · JWT |
-| [**Nexvoide**](https://grow.nexvoide.com) | Agency website with SEO metadata and cloud media | Next.js · Supabase · Cloudinary |
-
-👉 More at **[ayhab.vercel.app](https://ayhab.vercel.app/)**
+**Tools & Design**
+<p>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
+</p>
 
 ---
 
