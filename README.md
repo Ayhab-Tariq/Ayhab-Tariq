@@ -54,7 +54,7 @@ const ayhab = {
 
 **Mobile**
 <p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=reactnative,expo,flutter,android" alt="Mobile" />
+  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=reactnative,expo,android" alt="Mobile" />
 </p>
 
 **Databases**
