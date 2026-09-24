@@ -37,43 +37,59 @@ const ayhab = {
 
 **Languages**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=js,ts,c,cpp,php" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=ts,js,html,css,c,cpp,php" alt="Languages" />
 </p>
+<sub>Also: SQL</sub>
 
 **Frontend**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=react,nextjs,redux,tailwindcss,html,css,sass,bootstrap,babel,chartjs" alt="Frontend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=react,nextjs,reactnative,tailwindcss,daisyui,bootstrap,sass,babel,chartjs" alt="Frontend" />
 </p>
+<sub>Also: shadcn/ui</sub>
+
+**State & Data Fetching**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=redux,zustand,tanstack" alt="State & Data Fetching" />
+</p>
+<sub>Also: Redux Toolkit · Redux Persist · TanStack Query · Context API</sub>
 
 **Backend**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nodejs,expressjs,nestjs,prisma,stripe" alt="Backend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nodejs,expressjs,nestjs,api,websocket,stripe" alt="Backend" />
 </p>
+<sub>Also: REST APIs · Socket.io</sub>
+
+**Auth & Validation**
+
+`JWT` `OAuth 2.0` `Zod`
 
 **Mobile**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=reactnative,expo,android,apple" alt="Mobile" />
 </p>
 
-**Databases**
+**Databases & ORM**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=mongodb,mysql,firebase,supabase,sqlserver,oracle" alt="Databases" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=mongodb,mysql,mariadb,mongoose,prisma,firebase,supabase,sqlserver,oracle" alt="Databases & ORM" />
 </p>
 
-**DevOps & Hosting**
+**Cloud & DevOps**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nginx,vercel,netlify,githubactions,linux" alt="DevOps & Hosting" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nginx,githubactions,vercel,netlify,s3,linux" alt="Cloud & DevOps" />
 </p>
+<sub>Also: VPS hosting · CI/CD · Cloudinary · Supabase Storage</sub>
 
 **Tools & Design**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=git,github,postman,vscode,figma,photoshop,illustrator" alt="Tools & Design" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=git,github,postman,lighthouse,vscode,figma,photoshop,illustrator" alt="Tools & Design" />
 </p>
+<sub>Also: Agile / Scrum</sub>
 
 **AI Tools**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=claude,chatgpt,gemini,githubcopilot" alt="AI Tools" />
 </p>
+<sub>Also: Claude Code · Codex</sub>
 
 ---
 
