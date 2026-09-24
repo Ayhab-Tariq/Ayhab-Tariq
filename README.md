@@ -37,56 +37,54 @@ const ayhab = {
 
 **Languages**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=ts,js,html,css,c,cpp,php" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=ts,js,html,css,c,cpp,php" alt="Languages" />
 </p>
 
 **Frontend**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=react,nextjs,reactnative,tailwindcss,daisyui,bootstrap,sass,babel,chartjs" alt="Frontend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=react,nextjs,reactnative,tailwindcss,daisyui,bootstrap,sass,babel,chartjs" alt="Frontend" />
   <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=shadcn" alt="Frontend" />
 </p>
 
 **State & Data Fetching**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=redux,zustand,tanstack,reactquery" alt="State & Data Fetching" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=redux,zustand,tanstack,reactquery" alt="State & Data Fetching" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nodejs,expressjs,nestjs,api,websocket,stripe" alt="Backend" />
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=socketio" alt="Backend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=nodejs,expressjs,nestjs,api,websocket,stripe" alt="Backend" />
 </p>
 
 **Auth & Validation**
 <p>
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=jwt,oauth,zod" alt="Auth & Validation" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=jwt,zod" alt="Auth & Validation" />
 </p>
 
 **Mobile**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=reactnative,expo,android,apple" alt="Mobile" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=reactnative,expo,android,apple" alt="Mobile" />
 </p>
 
 **Databases & ORM**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=mongodb,mysql,mariadb,mongoose,prisma,firebase,supabase,sqlserver,oracle" alt="Databases & ORM" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=mongodb,mysql,mariadb,mongoose,prisma,firebase,supabase,sqlserver,oracle" alt="Databases & ORM" />
 </p>
 
 **Cloud & DevOps**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nginx,githubactions,vercel,netlify,s3,linux" alt="Cloud & DevOps" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=nginx,githubactions,vercel,netlify,s3,linux" alt="Cloud & DevOps" />
   <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=cloudinary" alt="Cloud & DevOps" />
 </p>
 
 **Tools & Design**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=git,github,postman,lighthouse,vscode,figma,photoshop,illustrator" alt="Tools & Design" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=git,github,postman,lighthouse,vscode,figma,photoshop,illustrator" alt="Tools & Design" />
 </p>
 
 **AI Tools**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=claude,chatgpt,gemini,githubcopilot" alt="AI Tools" />
-  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=codex" alt="AI Tools" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&perline=10&i=claude,chatgpt,gemini,githubcopilot" alt="AI Tools" />
 </p>
 
 ---
