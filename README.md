@@ -39,29 +39,28 @@ const ayhab = {
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=ts,js,html,css,c,cpp,php" alt="Languages" />
 </p>
-<sub>Also: SQL</sub>
 
 **Frontend**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=react,nextjs,reactnative,tailwindcss,daisyui,bootstrap,sass,babel,chartjs" alt="Frontend" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=shadcn" alt="Frontend" />
 </p>
-<sub>Also: shadcn/ui</sub>
 
 **State & Data Fetching**
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=redux,zustand,tanstack" alt="State & Data Fetching" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=redux,zustand,tanstack,reactquery" alt="State & Data Fetching" />
 </p>
-<sub>Also: Redux Toolkit · Redux Persist · TanStack Query · Context API</sub>
 
 **Backend**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nodejs,expressjs,nestjs,api,websocket,stripe" alt="Backend" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=socketio" alt="Backend" />
 </p>
-<sub>Also: REST APIs · Socket.io</sub>
 
 **Auth & Validation**
-
-`JWT` `OAuth 2.0` `Zod`
+<p>
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=jwt,oauth,zod" alt="Auth & Validation" />
+</p>
 
 **Mobile**
 <p>
@@ -76,20 +75,19 @@ const ayhab = {
 **Cloud & DevOps**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=nginx,githubactions,vercel,netlify,s3,linux" alt="Cloud & DevOps" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=cloudinary" alt="Cloud & DevOps" />
 </p>
-<sub>Also: VPS hosting · CI/CD · Cloudinary · Supabase Storage</sub>
 
 **Tools & Design**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=git,github,postman,lighthouse,vscode,figma,photoshop,illustrator" alt="Tools & Design" />
 </p>
-<sub>Also: Agile / Scrum</sub>
 
 **AI Tools**
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?theme=dark&titles=true&perline=10&i=claude,chatgpt,gemini,githubcopilot" alt="AI Tools" />
+  <img src="https://skill-icons-snowy.vercel.app/api/icons?t=dark&i=codex" alt="AI Tools" />
 </p>
-<sub>Also: Claude Code · Codex</sub>
 
 ---
 
