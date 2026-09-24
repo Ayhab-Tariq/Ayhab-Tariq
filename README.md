@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayhab+Tariq;Full-Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+React+Native+%7C+Node.js;Exploring+Next.js%2C+Flutter+%26+Web3" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayhab+Tariq;Full-Stack+Software+Engineer+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Lead+Frontend+Engineer+%40+SellOut+(UK)" alt="Typing intro" />
 
 <p>
-  <a href="https://ayhabtariq.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=netlify&logoColor=38BDF8" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ayhab-tariq-884148181"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://ayhab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ayhab"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ayhabtariq27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/ayhab.tariq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
@@ -19,37 +19,35 @@
 
 ```js
 const ayhab = {
-  role: "Full-Stack Developer",
-  basedIn: "Pakistan 🇵🇰",
-  currentlyWorkingOn: "[Your current role / company / project]",
-  currentlyLearning: ["Next.js", "Flutter", "Blockchain"],
-  askMeAbout: ["React", "React Native", "Node.js"],
-  funFact: "I debug faster when I'm laughing 😄",
+  role: "Full-Stack Software Engineer @ Dev Markaz",
+  basedIn: "Lahore, Pakistan 🇵🇰",
+  experience: "3+ years shipping production web & mobile apps",
+  currentlyBuilding: "SellOut — a live UK social e-commerce platform",
+  askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "React Native"],
+  openTo: ["On-site", "Hybrid", "Remote"],
 };
 ```
 
-- 🚀 I build fast, responsive web and mobile apps, from UI to API to database.
-- 🤝 Open to freelance projects and collaborations: **[what kind of work you want]**
-- 📫 Best way to reach me: **ayhabtariq27@gmail.com**
+- 🚀 Lead frontend engineer on **SellOut**: led the migration to Next.js and built the admin panel from scratch
+- ⚡ Improved Lighthouse performance by **40%** and cut state-related bugs by **35%**
+- 🛠️ Comfortable end to end: UI architecture, Stripe, WebSockets, REST APIs, VPS + Nginx deployment
+- 📫 Reach me at **ayhabtariq27@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,html,css,tailwind,sass,bootstrap&theme=dark" alt="Frontend" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,html,css,bootstrap&theme=dark" alt="Frontend" /></p>
 
-**Mobile**
-<p><img src="https://skillicons.dev/icons?i=react,flutter,dart&theme=dark" alt="Mobile" /></p>
+**Backend & Mobile (React Native)**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,react,prisma&theme=dark" alt="Backend" /></p>
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,php,java,cpp&theme=dark" alt="Backend" /></p>
+**Databases & DevOps**
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,nginx,vercel,netlify,githubactions&theme=dark" alt="Databases" /></p>
 
-**Databases & Cloud**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,heroku,netlify&theme=dark" alt="Databases" /></p>
-
-**Tools & Design**
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,ps,ai&theme=dark" alt="Tools" /></p>
+**Tools**
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode&theme=dark" alt="Tools" /></p>
 
 ---
 
@@ -57,11 +55,12 @@ const ayhab = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Project One**](https://github.com/ayhab-tariq/REPO) | One line on what it does and who it's for | React · Node · MongoDB |
-| [**Project Two**](https://github.com/ayhab-tariq/REPO) | One line on what it does and who it's for | React Native · Firebase |
-| [**Project Three**](https://github.com/ayhab-tariq/REPO) | One line on what it does and who it's for | Next.js · Tailwind |
+| [**SellOut**](https://selloutweb.com) | Live UK social e-commerce platform: Stripe checkout, real-time chat, full admin panel | Next.js · TypeScript · Redux Toolkit · WebSocket |
+| [**NikharHerbal**](https://nikharherbal.com) | Herbal products store with a custom CMS admin, delivered end to end | React · Node.js · Prisma · MariaDB |
+| **POS Mobile App** | Cross-platform POS for factories and restaurants with inventory and 3-tier roles | React Native · Express · MongoDB · JWT |
+| [**Nexvoide**](https://grow.nexvoide.com) | Agency website with SEO metadata and cloud media | Next.js · Supabase · Cloudinary |
 
-👉 See everything at **[ayhabtariq.netlify.app](https://ayhabtariq.netlify.app/)**
+👉 More at **[ayhab.vercel.app](https://ayhab.vercel.app/)**
 
 ---
 
