@@ -36,43 +36,106 @@ const ayhab = {
 ### 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=js,ts,c,cpp,php" alt="Languages" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=js" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=ts" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=c" width="48" height="48" alt="C" /><br><sub><b>C</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=cpp" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=php" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub></td>
+  </tr>
+</table>
 
 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=react,nextjs,redux,tailwind,html,css,sass,bootstrap,babel" alt="Frontend" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=chartjs" alt="Chart.js" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=react" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=nextjs" width="48" height="48" alt="Next.js" /><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=redux" width="48" height="48" alt="Redux" /><br><sub><b>Redux</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=tailwind" width="48" height="48" alt="Tailwind" /><br><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=html" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=css" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=sass" width="48" height="48" alt="Sass" /><br><sub><b>Sass</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=bootstrap" width="48" height="48" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=babel" width="48" height="48" alt="Babel" /><br><sub><b>Babel</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=chartjs" width="48" height="48" alt="Chart.js" /><br><sub><b>Chart.js</b></sub></td>
+  </tr>
+</table>
 
 **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nodejs,express,nestjs,prisma" alt="Backend" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=stripe" alt="Stripe" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=nodejs" width="48" height="48" alt="Node.js" /><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=express" width="48" height="48" alt="Express" /><br><sub><b>Express</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=nestjs" width="48" height="48" alt="NestJS" /><br><sub><b>NestJS</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=prisma" width="48" height="48" alt="Prisma" /><br><sub><b>Prisma</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=stripe" width="48" height="48" alt="Stripe" /><br><sub><b>Stripe</b></sub></td>
+  </tr>
+</table>
 
 **Mobile**
-<p>
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=reactnative,expo,android" alt="Mobile" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=reactnative" width="48" height="48" alt="React Native" /><br><sub><b>React Native</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=expo" width="48" height="48" alt="Expo" /><br><sub><b>Expo</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=android" width="48" height="48" alt="Android" /><br><sub><b>Android</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=apple" width="48" height="48" alt="iOS" /><br><sub><b>iOS</b></sub></td>
+  </tr>
+</table>
 
 **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=mongodb,mysql,firebase,supabase" alt="Databases" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=sqlserver,oracle" alt="SQL Server, Oracle" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=mongodb" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=mysql" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=firebase" width="48" height="48" alt="Firebase" /><br><sub><b>Firebase</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=supabase" width="48" height="48" alt="Supabase" /><br><sub><b>Supabase</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=sqlserver" width="48" height="48" alt="SQL Server" /><br><sub><b>SQL Server</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=oracle" width="48" height="48" alt="Oracle" /><br><sub><b>Oracle</b></sub></td>
+  </tr>
+</table>
 
 **DevOps & Hosting**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=nginx,vercel,netlify,githubactions,linux" alt="DevOps" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=nginx" width="48" height="48" alt="Nginx" /><br><sub><b>Nginx</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=vercel" width="48" height="48" alt="Vercel" /><br><sub><b>Vercel</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=netlify" width="48" height="48" alt="Netlify" /><br><sub><b>Netlify</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=githubactions" width="48" height="48" alt="GH Actions" /><br><sub><b>GH Actions</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=linux" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
 **Tools & Design**
-<p>
-  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,postman,vscode,figma,ps,ai" alt="Tools" />
-  <img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=claude,chatgpt,gemini,githubcopilot" alt="AI Tools" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=git" width="48" height="48" alt="Git" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=github" width="48" height="48" alt="GitHub" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=postman" width="48" height="48" alt="Postman" /><br><sub><b>Postman</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=vscode" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=figma" width="48" height="48" alt="Figma" /><br><sub><b>Figma</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=ps" width="48" height="48" alt="Photoshop" /><br><sub><b>Photoshop</b></sub></td>
+    <td align="center" width="80"><img src="https://skillicons.dev/icons?theme=dark&i=ai" width="48" height="48" alt="Illustrator" /><br><sub><b>Illustrator</b></sub></td>
+  </tr>
+</table>
+
+**AI Tools**
+
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=claude" width="48" height="48" alt="Claude" /><br><sub><b>Claude</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=chatgpt" width="48" height="48" alt="ChatGPT" /><br><sub><b>ChatGPT</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=gemini" width="48" height="48" alt="Gemini" /><br><sub><b>Gemini</b></sub></td>
+    <td align="center" width="80"><img src="https://skill-icons-v2.vercel.app/api/icons?theme=dark&i=githubcopilot" width="48" height="48" alt="Copilot" /><br><sub><b>Copilot</b></sub></td>
+  </tr>
+</table>
 
 ---
 
