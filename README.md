@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayhab+Tariq;Full-Stack+Software+Engineer+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Lead+Frontend+Engineer+%40+SellOut+(UK)" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Ayhab+Tariq;Full-Stack+Software+Engineer+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Web+%26+Mobile+Apps+that+ship" alt="Typing intro" />
 
 <p>
   <a href="https://ayhab.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio" /></a>
@@ -19,16 +19,15 @@
 
 ```js
 const ayhab = {
-  role: "Full-Stack Software Engineer @ Dev Markaz",
+  role: "Full-Stack Software Engineer",
   basedIn: "Lahore, Pakistan 🇵🇰",
   experience: "3+ years shipping production web & mobile apps",
-  currentlyBuilding: "SellOut — a live UK social e-commerce platform",
   askMeAbout: ["React", "Next.js", "TypeScript", "Node.js", "React Native"],
   openTo: ["On-site", "Hybrid", "Remote"],
 };
 ```
 
-- 🚀 Lead frontend engineer on **SellOut**: led the migration to Next.js and built the admin panel from scratch
+- 🚀 Led a full migration to Next.js and built a complete admin panel from scratch
 - ⚡ Improved Lighthouse performance by **40%** and cut state-related bugs by **35%**
 - 🛠️ Comfortable end to end: UI architecture, Stripe, WebSockets, REST APIs, VPS + Nginx deployment
 - 📫 Reach me at **ayhabtariq27@gmail.com**
@@ -55,7 +54,6 @@ const ayhab = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SellOut**](https://selloutweb.com) | Live UK social e-commerce platform: Stripe checkout, real-time chat, full admin panel | Next.js · TypeScript · Redux Toolkit · WebSocket |
 | [**NikharHerbal**](https://nikharherbal.com) | Herbal products store with a custom CMS admin, delivered end to end | React · Node.js · Prisma · MariaDB |
 | **POS Mobile App** | Cross-platform POS for factories and restaurants with inventory and 3-tier roles | React Native · Express · MongoDB · JWT |
 | [**Nexvoide**](https://grow.nexvoide.com) | Agency website with SEO metadata and cloud media | Next.js · Supabase · Cloudinary |
@@ -68,12 +66,17 @@ const ayhab = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayhab-tariq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhab-tariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com?user=ayhab-tariq&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayhab-tariq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<!--
+  Deploy github-readme-stats on your own Vercel (with a PAT_1 token),
+  replace YOUR-STATS-APP below, then remove these comment lines.
+
+<img height="165" src="https://YOUR-STATS-APP.vercel.app/api?username=ayhab-tariq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=ayhab-tariq&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://YOUR-GRAPH-APP.vercel.app/graph?username=ayhab-tariq&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+-->
 
 </div>
 
